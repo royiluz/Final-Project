@@ -7,6 +7,7 @@ import PurchasesPage from "./comps/PurchasesPage/PurchasesPage";
 import EditCustomerPage from "./comps/EditCustomer/EditCustomerPage";
 import EditProductPage from "./comps/EditProducts/EditProductPage";
 import MenuBar from "./comps/utils/MenuBar";
+// HI
 
 function App() {
   // Load all products to store (MobX)
